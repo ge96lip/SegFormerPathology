@@ -1,1 +1,3 @@
 # SegFormerPathology
+
+This repository contains a Bachelor’s thesis investigating Vision Transformers for semantic segmentation of H&E stained pathological images for cancer detection and research. Due to the collaborative nature of the research with Aignostic GMBH, the code and data cannot be published. However, the thesis and a summary of the learnings are available on [Medium](https://medium.com/@c.s.hoelzle/mastering-deep-learning-architectures-for-medical-semantic-segmentation-a-students-journey-2e3745b4e486), providing initial insights into the findings. The presentation is also included in this repository.
